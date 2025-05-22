@@ -6,14 +6,14 @@
   <img src="https://img.shields.io/badge/Features-Music%20%7C%20Favicon%20%7C%20Theme%20Toggle%20%7C%20Copy_Save-purple?style=for-the-badge" />
 </p
 
-<div align="center">
-  <img src="https://media.tenor.com/6hEbcQzfW2cAAAAM/write-writing.gif" alt="Writing Animation" />
-</div>
-
 
 ## 🎨 Project Overview
 
 **Poetry Generator Web App** is a creative and visually appealing website built using **HTML, CSS, and JavaScript**. Users can generate beautiful poems with a single click, enjoy **soothing background music**, switch between **dark and light themes**, and easily **copy or save** their favorite poems. A custom **favicon** adds a professional touch to the browser tab.
+
+<p align="center">
+  <img src="https://media.tenor.com/6hEbcQzfW2cAAAAM/write-writing.gif" width="300" alt="writing animation GIF"/>
+</p>
 
 
 
@@ -102,7 +102,7 @@ In poetry, we freeze in time.
 * Clipboard API for copying text
 * FileSaver or similar for saving poems as text files
 
----
+
 
 ## 🌟 Future Enhancements
 
@@ -111,7 +111,7 @@ In poetry, we freeze in time.
 * AI-powered poetry generation with GPT integration
 * Animated backgrounds synchronized with music
 
----
+
 
 ## 🙋‍♀️ Author
 
@@ -119,7 +119,7 @@ In poetry, we freeze in time.
 📧 [Madhumithab1207@gmail.com](mailto:Madhumithab1207@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/madhumitha-b-a545a525b)
 
----
+
 
 ## ⭐ Support This Project
 
@@ -129,6 +129,8 @@ If you enjoyed this app, please:
 * 🍴 Fork and customize your own version
 * 🚀 Share it with fellow poetry lovers!
 
----
 
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a2418f60390643.5a4b910e63f83.gif" width="300" alt="Thankyou  GIF"/>
+</p>
 
